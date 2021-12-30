@@ -3,7 +3,7 @@
 import cv2
 import pandas as pd
 
-img_path = r'scenery.jpg'
+img_path = r'assets\scenery.jpg'
 img = cv2.imread(img_path)
 
 
